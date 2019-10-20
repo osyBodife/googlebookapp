@@ -1,8 +1,7 @@
 import React, { Component } from "react";
-// import FriendCard from "./components/FriendCard";
-// import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
 import Book from "./components/Book";
+//import SearchArea from "./components/SearchArea";
 //import friends from "./friends.json";
 class App extends Component {
 render() {
@@ -10,6 +9,7 @@ render() {
     <div className="App">
       <Header />
       <Book />
+      
     </div>
   );
 }

@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+}
+
+
+.headings {
+  width: 100%;  
+  font-size: 1.0rem;
+  text-decoration: none;
+  color: rgb(229, 233, 236);
+  margin-bottom: 30px;
+  height: 80px;
+  background-color: rgb(26, 12, 12);
+text-align: center;
+padding-top: 20px;
+
+
+}
+
+ header{
+     padding: 20px 0 20px 0;
+     background-color: rgb(7, 1, 1);
+     color : #ffffff;
+     text-align: center;
+       height: 100px;
+ }
+
+
+header h1{
+    display :inline;
+    margin-left:15px;
+    font-weight: 300;
+}
+
+text-container{
+  background-color: aqua;
+}
